@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/cep21/benchdraw/internal"
+	"github.com/chrisjoyce911/benchdraw/internal"
 
 	"github.com/pkg/errors"
 )

@@ -1,4 +1,4 @@
-module github.com/cep21/benchdraw
+module github.com/chrisjoyce911/benchdraw
 
 go 1.18
 
