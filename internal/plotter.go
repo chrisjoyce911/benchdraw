@@ -67,10 +67,7 @@ func (l *Plotter) savePlot(out io.Writer, p *plot.Plot, imageFormat string, line
 }
 
 func (l *Plotter) createPlot(log Logger, pt PlotType, title string, x string, y string, lines []PlotLine, nominalX []string) (*plot.Plot, error) {
-	p, err := plot.New()
-	if err != nil {
-		return nil, errors.Wrap(err, "unable to create initial plot")
-	}
+	p := plot.New()
 	p.Title.Text = title
 	p.Y.Label.Text = y
 	p.X.Label.Text = x

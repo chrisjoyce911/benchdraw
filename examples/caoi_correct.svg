@@ -5,88 +5,88 @@
 	xmlns:xlink="http://www.w3.org/1999/xlink">
 <g transform="scale(1, -1) translate(0, -595)">
 <path d="M0,0L1190,0L1190,595L0,595Z" style="fill:#FFFFFF" />
-<text x="474.26" y="-583.45" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:12px">BenchmarkCorrectness/size=1000000/digest=caio</text>
-<text x="611.88" y="-3.8613" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:12px">quant</text>
-<text x="116.67" y="-15.602" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">0.000000</text>
-<text x="312.58" y="-15.602" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">0.100000</text>
-<text x="508.5" y="-15.602" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">0.500000</text>
-<text x="704.42" y="-15.602" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">0.900000</text>
-<text x="900.33" y="-15.602" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">0.990000</text>
-<text x="1096.2" y="-15.602" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">0.999000</text>
+<text x="474.26" y="-585.61" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:12px">BenchmarkCorrectness/size=1000000/digest=caio</text>
+<text x="612.11" y="-3.9023" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:12px">quant</text>
+<text x="117.13" y="-16.541" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:10px">0.000000</text>
+<text x="312.96" y="-16.541" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:10px">0.100000</text>
+<text x="508.78" y="-16.541" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:10px">0.500000</text>
+<text x="704.6" y="-16.541" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:10px">0.900000</text>
+<text x="900.43" y="-16.541" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:10px">0.990000</text>
+<text x="1096.2" y="-16.541" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:10px">0.999000</text>
 <g transform="rotate(90)">
-<text x="280.8" y="11.555" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:12px">%correct</text>
+<text x="282.42" y="9.3867" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:12px">%correct</text>
 </g>
-<text x="25.416" y="-25.509" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">0</text>
-<text x="20.416" y="-297.73" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">50</text>
-<text x="15.416" y="-569.96" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">100</text>
-<path d="M32.916,30.23L40.916,30.23" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M32.916,302.45L40.916,302.45" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M32.916,574.68L40.916,574.68" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M36.916,84.675L40.916,84.675" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M36.916,139.12L40.916,139.12" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M36.916,193.56L40.916,193.56" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M36.916,248.01L40.916,248.01" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M36.916,356.9L40.916,356.9" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M36.916,411.34L40.916,411.34" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M36.916,465.79L40.916,465.79" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M36.916,520.23L40.916,520.23" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M40.916,30.23L40.916,574.68" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M60.416,30.23L60.416,574.68L90.416,574.68L90.416,30.23Z" style="fill:#F15A60" />
-<path d="M256.33,30.23L256.33,574.68L286.33,574.68L286.33,30.23Z" style="fill:#F15A60" />
-<path d="M452.25,30.23L452.25,574.68L482.25,574.68L482.25,30.23Z" style="fill:#F15A60" />
-<path d="M648.17,30.23L648.17,574.68L678.17,574.68L678.17,30.23Z" style="fill:#F15A60" />
-<path d="M844.08,30.23L844.08,574.68L874.08,574.68L874.08,30.23Z" style="fill:#F15A60" />
-<path d="M1040,30.23L1040,574.68L1070,574.68L1070,30.23Z" style="fill:#F15A60" />
-<path d="M90.416,30.23L90.416,574.68L120.42,574.68L120.42,30.23Z" style="fill:#7AC36A" />
-<path d="M286.33,30.23L286.33,574.68L316.33,574.68L316.33,30.23Z" style="fill:#7AC36A" />
-<path d="M482.25,30.23L482.25,574.68L512.25,574.68L512.25,30.23Z" style="fill:#7AC36A" />
-<path d="M678.17,30.23L678.17,574.68L708.17,574.68L708.17,30.23Z" style="fill:#7AC36A" />
-<path d="M874.08,30.23L874.08,574.68L904.08,574.68L904.08,30.23Z" style="fill:#7AC36A" />
-<path d="M1070,30.23L1070,574.68L1100,574.68L1100,30.23Z" style="fill:#7AC36A" />
-<path d="M120.42,30.23L120.42,574.68L150.42,574.68L150.42,30.23Z" style="fill:#5A9BD4" />
-<path d="M316.33,30.23L316.33,574.68L346.33,574.68L346.33,30.23Z" style="fill:#5A9BD4" />
-<path d="M512.25,30.23L512.25,574.68L542.25,574.68L542.25,30.23Z" style="fill:#5A9BD4" />
-<path d="M708.17,30.23L708.17,574.68L738.17,574.68L738.17,30.23Z" style="fill:#5A9BD4" />
-<path d="M904.08,30.23L904.08,574.68L934.08,574.68L934.08,30.23Z" style="fill:#5A9BD4" />
-<path d="M1100,30.23L1100,574.68L1130,574.68L1130,30.23Z" style="fill:#5A9BD4" />
-<path d="M150.42,30.23L150.42,574.68L180.42,574.68L180.42,30.23Z" style="fill:#FAA75B" />
-<path d="M346.33,30.23L346.33,574.68L376.33,574.68L376.33,30.23Z" style="fill:#FAA75B" />
-<path d="M542.25,30.23L542.25,549.09L572.25,549.09L572.25,30.23Z" style="fill:#FAA75B" />
-<path d="M738.17,30.23L738.17,574.68L768.17,574.68L768.17,30.23Z" style="fill:#FAA75B" />
-<path d="M934.08,30.23L934.08,574.68L964.08,574.68L964.08,30.23Z" style="fill:#FAA75B" />
-<path d="M1130,30.23L1130,574.68L1160,574.68L1160,30.23Z" style="fill:#FAA75B" />
-<path d="M180.42,30.23L180.42,574.68L210.42,574.68L210.42,30.23Z" style="fill:#9E67AB" />
-<path d="M376.33,30.23L376.33,574.68L406.33,574.68L406.33,30.23Z" style="fill:#9E67AB" />
-<path d="M572.25,30.23L572.25,574.68L602.25,574.68L602.25,30.23Z" style="fill:#9E67AB" />
-<path d="M768.17,30.23L768.17,344.92L798.17,344.92L798.17,30.23Z" style="fill:#9E67AB" />
-<path d="M964.08,30.23L964.08,574.68L994.08,574.68L994.08,30.23Z" style="fill:#9E67AB" />
-<path d="M1160,30.23L1160,574.68L1190,574.68L1190,30.23Z" style="fill:#9E67AB" />
-<path d="M1170,567.81L1170,579.58L1190,579.58L1190,567.81Z" style="fill:#F15A60" />
-<text x="1139.7" y="-568.03" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:12px">linear</text>
-<path d="M1170,556.03L1170,567.81L1190,567.81L1190,556.03Z" style="fill:#7AC36A" />
-<text x="1145.7" y="-556.25" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:12px">rand</text>
-<path d="M1170,544.25L1170,556.03L1190,556.03L1190,544.25Z" style="fill:#5A9BD4" />
-<text x="1115.7" y="-544.47" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:12px">alternating</text>
-<path d="M1170,532.47L1170,544.25L1190,544.25L1190,532.47Z" style="fill:#FAA75B" />
-<text x="1133" y="-532.7" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:12px">normal</text>
-<path d="M1170,520.7L1170,532.47L1190,532.47L1190,520.7Z" style="fill:#9E67AB" />
-<text x="1126.3" y="-520.92" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:12px">tailspike</text>
+<text x="25.885" y="-29.674" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:10px">0</text>
+<text x="20.885" y="-301.78" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:10px">50</text>
+<text x="15.885" y="-573.89" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:10px">100</text>
+<path d="M33.385,31.959L41.385,31.959" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M33.385,304.07L41.385,304.07" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M33.385,576.17L41.385,576.17" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M37.385,86.38L41.385,86.38" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M37.385,140.8L41.385,140.8" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M37.385,195.22L41.385,195.22" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M37.385,249.64L41.385,249.64" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M37.385,358.49L41.385,358.49" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M37.385,412.91L41.385,412.91" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M37.385,467.33L41.385,467.33" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M37.385,521.75L41.385,521.75" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M41.385,31.959L41.385,576.17" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M60.885,31.959L60.885,576.17L90.885,576.17L90.885,31.959Z" style="fill:#F15A60" />
+<path d="M256.71,31.959L256.71,576.17L286.71,576.17L286.71,31.959Z" style="fill:#F15A60" />
+<path d="M452.53,31.959L452.53,576.17L482.53,576.17L482.53,31.959Z" style="fill:#F15A60" />
+<path d="M648.35,31.959L648.35,576.17L678.35,576.17L678.35,31.959Z" style="fill:#F15A60" />
+<path d="M844.18,31.959L844.18,576.17L874.18,576.17L874.18,31.959Z" style="fill:#F15A60" />
+<path d="M1040,31.959L1040,576.17L1070,576.17L1070,31.959Z" style="fill:#F15A60" />
+<path d="M90.885,31.959L90.885,576.17L120.88,576.17L120.88,31.959Z" style="fill:#7AC36A" />
+<path d="M286.71,31.959L286.71,576.17L316.71,576.17L316.71,31.959Z" style="fill:#7AC36A" />
+<path d="M482.53,31.959L482.53,576.17L512.53,576.17L512.53,31.959Z" style="fill:#7AC36A" />
+<path d="M678.35,31.959L678.35,576.17L708.35,576.17L708.35,31.959Z" style="fill:#7AC36A" />
+<path d="M874.18,31.959L874.18,576.17L904.18,576.17L904.18,31.959Z" style="fill:#7AC36A" />
+<path d="M1070,31.959L1070,576.17L1100,576.17L1100,31.959Z" style="fill:#7AC36A" />
+<path d="M120.88,31.959L120.88,576.17L150.88,576.17L150.88,31.959Z" style="fill:#5A9BD4" />
+<path d="M316.71,31.959L316.71,576.17L346.71,576.17L346.71,31.959Z" style="fill:#5A9BD4" />
+<path d="M512.53,31.959L512.53,576.17L542.53,576.17L542.53,31.959Z" style="fill:#5A9BD4" />
+<path d="M708.35,31.959L708.35,576.17L738.35,576.17L738.35,31.959Z" style="fill:#5A9BD4" />
+<path d="M904.18,31.959L904.18,576.17L934.18,576.17L934.18,31.959Z" style="fill:#5A9BD4" />
+<path d="M1100,31.959L1100,576.17L1130,576.17L1130,31.959Z" style="fill:#5A9BD4" />
+<path d="M150.88,31.959L150.88,576.17L180.88,576.17L180.88,31.959Z" style="fill:#FAA75B" />
+<path d="M346.71,31.959L346.71,576.17L376.71,576.17L376.71,31.959Z" style="fill:#FAA75B" />
+<path d="M542.53,31.959L542.53,550.6L572.53,550.6L572.53,31.959Z" style="fill:#FAA75B" />
+<path d="M738.35,31.959L738.35,576.17L768.35,576.17L768.35,31.959Z" style="fill:#FAA75B" />
+<path d="M934.18,31.959L934.18,576.17L964.18,576.17L964.18,31.959Z" style="fill:#FAA75B" />
+<path d="M1130,31.959L1130,576.17L1160,576.17L1160,31.959Z" style="fill:#FAA75B" />
+<path d="M180.88,31.959L180.88,576.17L210.88,576.17L210.88,31.959Z" style="fill:#9E67AB" />
+<path d="M376.71,31.959L376.71,576.17L406.71,576.17L406.71,31.959Z" style="fill:#9E67AB" />
+<path d="M572.53,31.959L572.53,576.17L602.53,576.17L602.53,31.959Z" style="fill:#9E67AB" />
+<path d="M768.35,31.959L768.35,346.52L798.35,346.52L798.35,31.959Z" style="fill:#9E67AB" />
+<path d="M964.18,31.959L964.18,576.17L994.18,576.17L994.18,31.959Z" style="fill:#9E67AB" />
+<path d="M1160,31.959L1160,576.17L1190,576.17L1190,31.959Z" style="fill:#9E67AB" />
+<path d="M1170,568.93L1170,579.12L1190,579.12L1190,568.93Z" style="fill:#F15A60" />
+<text x="1139.7" y="-571.54" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:12px">linear</text>
+<path d="M1170,558.75L1170,568.93L1190,568.93L1190,558.75Z" style="fill:#7AC36A" />
+<text x="1145.7" y="-561.35" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:12px">rand</text>
+<path d="M1170,548.56L1170,558.75L1190,558.75L1190,548.56Z" style="fill:#5A9BD4" />
+<text x="1115.7" y="-551.17" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:12px">alternating</text>
+<path d="M1170,538.38L1170,548.56L1190,548.56L1190,538.38Z" style="fill:#FAA75B" />
+<text x="1133" y="-540.99" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:12px">normal</text>
+<path d="M1170,528.2L1170,538.38L1190,538.38L1190,528.2Z" style="fill:#9E67AB" />
+<text x="1126.3" y="-530.8" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:12px">tailspike</text>
 </g>
 </svg>

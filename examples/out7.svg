@@ -5,54 +5,54 @@
 	xmlns:xlink="http://www.w3.org/1999/xlink">
 <g transform="scale(1, -1) translate(0, -235)">
 <path d="M0,0L470,0L470,235L0,235Z" style="fill:#FFFFFF" />
-<text x="165.98" y="-223.45" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:12px">BenchmarkDecode/size=1e6</text>
-<text x="277.36" y="-3.8613" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:12px">level</text>
-<text x="111.67" y="-15.602" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">speed</text>
-<text x="275.14" y="-15.602" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">default</text>
-<text x="446.95" y="-15.602" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">best</text>
+<text x="165.98" y="-225.61" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:12px">BenchmarkDecode/size=1e6</text>
+<text x="277.6" y="-3.9023" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:12px">level</text>
+<text x="112.13" y="-16.541" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:10px">speed</text>
+<text x="275.38" y="-16.541" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:10px">default</text>
+<text x="446.95" y="-16.541" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:10px">best</text>
 <g transform="rotate(90)">
-<text x="111.91" y="11.555" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:12px">ns/op</text>
+<text x="113.83" y="9.3867" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:12px">ns/op</text>
 </g>
-<text x="50.416" y="-25.509" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">0</text>
-<text x="20.416" y="-80.078" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">4000000</text>
-<text x="20.416" y="-134.65" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">8000000</text>
-<text x="15.416" y="-189.22" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">12000000</text>
-<path d="M57.916,30.23L65.916,30.23" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M57.916,84.8L65.916,84.8" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M57.916,139.37L65.916,139.37" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M57.916,193.94L65.916,193.94" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M61.916,43.873L65.916,43.873" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M61.916,57.515L65.916,57.515" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M61.916,71.158L65.916,71.158" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M61.916,98.442L65.916,98.442" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M61.916,112.08L65.916,112.08" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M61.916,125.73L65.916,125.73" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M61.916,153.01L65.916,153.01" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M61.916,166.65L65.916,166.65" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M61.916,180.3L65.916,180.3" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M61.916,207.58L65.916,207.58" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M65.916,30.23L65.916,219.58" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M78.05,30.23L78.05,219.58L108.05,219.58L108.05,30.23Z" style="fill:#F15A60" />
-<path d="M244.03,30.23L244.03,191.33L274.03,191.33L274.03,30.23Z" style="fill:#F15A60" />
-<path d="M410,30.23L410,190.4L440,190.4L440,30.23Z" style="fill:#F15A60" />
-<path d="M108.05,30.23L108.05,195.69L138.05,195.69L138.05,30.23Z" style="fill:#7AC36A" />
-<path d="M274.03,30.23L274.03,168.11L304.03,168.11L304.03,30.23Z" style="fill:#7AC36A" />
-<path d="M440,30.23L440,167.2L470,167.2L470,30.23Z" style="fill:#7AC36A" />
-<path d="M450,207.81L450,219.58L470,219.58L470,207.81Z" style="fill:#F15A60" />
-<text x="420.33" y="-208.03" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:12px">digits</text>
-<path d="M450,196.03L450,207.81L470,207.81L470,196.03Z" style="fill:#7AC36A" />
-<text x="420.34" y="-196.25" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:12px">twain</text>
+<text x="50.885" y="-29.674" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:10px">0</text>
+<text x="20.885" y="-84.358" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:10px">4000000</text>
+<text x="20.885" y="-139.04" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:10px">8000000</text>
+<text x="15.885" y="-193.73" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:10px">12000000</text>
+<path d="M58.385,31.959L66.385,31.959" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M58.385,86.643L66.385,86.643" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M58.385,141.33L66.385,141.33" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M58.385,196.01L66.385,196.01" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M62.385,45.63L66.385,45.63" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M62.385,59.301L66.385,59.301" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M62.385,72.972L66.385,72.972" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M62.385,100.31L66.385,100.31" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M62.385,113.99L66.385,113.99" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M62.385,127.66L66.385,127.66" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M62.385,155L66.385,155" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M62.385,168.67L66.385,168.67" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M62.385,182.34L66.385,182.34" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M62.385,209.68L66.385,209.68" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M66.385,31.959L66.385,221.71" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M78.519,31.959L78.519,221.71L108.52,221.71L108.52,31.959Z" style="fill:#F15A60" />
+<path d="M244.26,31.959L244.26,193.4L274.26,193.4L274.26,31.959Z" style="fill:#F15A60" />
+<path d="M410,31.959L410,192.46L440,192.46L440,31.959Z" style="fill:#F15A60" />
+<path d="M108.52,31.959L108.52,197.77L138.52,197.77L138.52,31.959Z" style="fill:#7AC36A" />
+<path d="M274.26,31.959L274.26,170.13L304.26,170.13L304.26,31.959Z" style="fill:#7AC36A" />
+<path d="M440,31.959L440,169.22L470,169.22L470,31.959Z" style="fill:#7AC36A" />
+<path d="M450,208.93L450,219.12L470,219.12L470,208.93Z" style="fill:#F15A60" />
+<text x="420.33" y="-211.54" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:12px">digits</text>
+<path d="M450,198.75L450,208.93L470,208.93L470,198.75Z" style="fill:#7AC36A" />
+<text x="420.34" y="-201.35" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:12px">twain</text>
 </g>
 </svg>

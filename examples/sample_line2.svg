@@ -5,49 +5,49 @@
 	xmlns:xlink="http://www.w3.org/1999/xlink">
 <g transform="scale(1, -1) translate(0, -295)">
 <path d="M0,0L590,0L590,295L0,295Z" style="fill:#FFFFFF" />
-<text x="162.76" y="-283.45" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:12px">BenchmarkCorrectness/size=1000000/quant=0.999000</text>
-<text x="302.43" y="-3.8613" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:12px">source</text>
-<text x="51.744" y="-15.602" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">linear</text>
-<text x="181.72" y="-15.602" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">rand</text>
-<text x="296.71" y="-15.602" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">alternating</text>
-<text x="431.41" y="-15.602" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">normal</text>
-<text x="556.12" y="-15.602" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">tailspike</text>
+<text x="162.76" y="-285.61" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:12px">BenchmarkCorrectness/size=1000000/quant=0.999000</text>
+<text x="302.67" y="-3.9023" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:12px">source</text>
+<text x="52.213" y="-16.541" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:10px">linear</text>
+<text x="182.08" y="-16.541" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:10px">rand</text>
+<text x="296.95" y="-16.541" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:10px">alternating</text>
+<text x="431.53" y="-16.541" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:10px">normal</text>
+<text x="556.12" y="-16.541" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:10px">tailspike</text>
 <g transform="rotate(90)">
-<text x="130.8" y="11.555" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:12px">%correct</text>
+<text x="132.42" y="9.3867" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:12px">%correct</text>
 </g>
-<text x="15.416" y="-25.509" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">1e+02</text>
-<text x="15.416" y="-147.73" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">1e+02</text>
-<text x="15.416" y="-269.96" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">1e+02</text>
-<path d="M42.994,30.23L50.994,30.23" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M42.994,152.45L50.994,152.45" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M42.994,274.68L50.994,274.68" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M46.994,54.675L50.994,54.675" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M46.994,79.12L50.994,79.12" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M46.994,103.56L50.994,103.56" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M46.994,128.01L50.994,128.01" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M46.994,176.9L50.994,176.9" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M46.994,201.34L50.994,201.34" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M46.994,225.79L50.994,225.79" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M46.994,250.23L50.994,250.23" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M50.994,30.23L50.994,274.68" style="fill:none;stroke:#000000;stroke-width:0.5" />
-<path d="M63.126,274.68L190.61,274.68L318.09,274.68L445.58,274.68L573.06,274.68" style="fill:none;stroke:#F15A60" />
-<path d="M63.126,274.68L190.61,274.68L318.09,274.68L445.58,30.23L573.06,274.68" style="fill:none;stroke:#7AC36A" />
-<path d="M570,273.7L590,273.7" style="fill:none;stroke:#F15A60" />
-<text x="547.01" y="-268.03" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:12px">caio</text>
-<path d="M570,261.92L590,261.92" style="fill:none;stroke:#7AC36A" />
-<text x="517.68" y="-256.25" transform="scale(1, -1)"
-	style="font-family:Times;font-weight:normal;font-style:normal;font-size:12px">segmentio</text>
+<text x="15.885" y="-29.674" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:10px">1e+02</text>
+<text x="15.885" y="-151.78" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:10px">1e+02</text>
+<text x="15.885" y="-273.89" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:10px">1e+02</text>
+<path d="M43.463,31.959L51.463,31.959" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M43.463,154.07L51.463,154.07" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M43.463,276.17L51.463,276.17" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M47.463,56.38L51.463,56.38" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M47.463,80.802L51.463,80.802" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M47.463,105.22L51.463,105.22" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M47.463,129.64L51.463,129.64" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M47.463,178.49L51.463,178.49" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M47.463,202.91L51.463,202.91" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M47.463,227.33L51.463,227.33" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M47.463,251.75L51.463,251.75" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M51.463,31.959L51.463,276.17" style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path d="M63.595,276.17L190.96,276.17L318.33,276.17L445.69,276.17L573.06,276.17" style="fill:none;stroke:#F15A60" />
+<path d="M63.595,276.17L190.96,276.17L318.33,276.17L445.69,31.959L573.06,276.17" style="fill:none;stroke:#7AC36A" />
+<path d="M570,274.02L590,274.02" style="fill:none;stroke:#F15A60" />
+<text x="547.01" y="-271.54" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:12px">caio</text>
+<path d="M570,263.84L590,263.84" style="fill:none;stroke:#7AC36A" />
+<text x="517.68" y="-261.35" transform="scale(1, -1)"
+	style="font-family:Liberation Serif;font-variant:normal;font-weight:normal;font-style:normal;font-size:12px">segmentio</text>
 </g>
 </svg>
