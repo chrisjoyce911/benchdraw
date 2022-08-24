@@ -11,7 +11,7 @@ pictures for the most common cases that users can generate with minimal effort.
 # Install
 
 ```
-go get github.com/cep21/benchdraw
+go get github.com/chrisjoyce911/benchdraw
 ```
 
 # Usage

@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/cep21/benchdraw/internal"
+	"github.com/chrisjoyce911/benchdraw/internal"
 	"github.com/stretchr/testify/require"
 )
 
